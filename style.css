@@ -1,0 +1,43 @@
+body{
+	background-image:url("picture1.png");
+
+	background-size:cover;
+	margin:25px;
+	text-align:center;
+}
+header{
+	background-color:white;
+	padding:15px;
+	border-radius:50px;
+	border-color:#00fbff;
+	border-style:outset;
+	margin:30px;
+	opacity:65%;
+}
+
+fieldset, legend{
+	background-color:red;
+	padding:15px;
+	border-radius:50px;
+	border-color:#00fbff;
+	border-style:outset;
+	margin:30px;
+	opacity:85%;
+	color:white;
+	font-size:30px;
+}
+section{
+	background-color:blue;
+	padding:15px;
+	border-radius:50px;
+	border-color:#00fbff;
+	border-style:outset;
+	margin:30px;
+	opacity:85%;
+	color:white;
+	font-size:30px;
+}
+
+
+
+	
